@@ -1,6 +1,5 @@
 # 🏏 IPL Data Analysis Dashboard
 
-###  One‑line tagline
 Uncovering IPL trends: wins, toss decisions, venues, and star performers.
 
 ---
@@ -12,7 +11,7 @@ It demonstrates skills in **data cleaning, visualization, and storytelling** usi
 ---
 
 ## ⚙️ Tech Stack
-- **Excel ** → Pivot tables, slicers, charts ,Interactive dashboards
+- **Excel** → Pivot tables, slicers, charts ,Interactive dashboards
 - **Data Sources** → IPL match & player datasets  
 
 ---
@@ -37,4 +36,4 @@ It demonstrates skills in **data cleaning, visualization, and storytelling** usi
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/ipl-data-analysis.git
+   git clone https://github.com/Aarushi2803/IPL-Data-Analysis-Dashboard
