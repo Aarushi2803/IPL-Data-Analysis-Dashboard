@@ -1,6 +1,5 @@
 # 🏏 IPL Data Analysis Dashboard
 
-###  One‑line tagline
 Uncovering IPL trends: wins, toss decisions, venues, and star performers.
 
 ---
